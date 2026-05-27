@@ -10,4 +10,7 @@ The project focuses on transforming raw sales data into a clean, interactive, an
 <img width="1016" height="577" alt="Echu&#39;s sales dashboard" src="https://github.com/user-attachments/assets/3934a0f6-271b-4b08-ad71-17b9d4022ec8" />
 
 
+
+
+
 https://www.kaggle.com/datasets/vinothkannaece/sales-dataset

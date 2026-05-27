@@ -21,15 +21,15 @@ The project focuses on transforming raw sales data into a clean, interactive, an
 
 The dashboard includes:
 
-Total Profit KPI
-Total Revenue KPI
-Total Cost KPI
-Quantity Sold KPI
-Profit by Region
-Profit by Product Category
-Profit by Sales Channel
-Quantity Sold by Customer Type
-Sales Representative Filter Panel
+▪ Total Profit KPI
+▪ Total Revenue KPI
+▪ Total Cost KPI
+▪ Quantity Sold KPI
+▪ Profit by Region
+▪ Profit by Product Category
+▪ Profit by Sales Channel
+▪ Quantity Sold by Customer Type
+▪ Sales Representative Filter Panel
 
 
 
@@ -50,22 +50,22 @@ Total Columns: 15 columns
 **Main Dataset Columns**
 
 
-Column Name	Description
-Product ID	Unique identifier for products
-Sale Date	Date of sale transaction
-Sales Rep	Name of sales representative
-Region	Sales region
-Quantity Sold	Number of units sold
-Product Category	Product category
-Unit Cost	Cost price per unit
-Unit Price	Selling price per unit
-Cost	Total cost
-Revenue	Total revenue
-Profit	Revenue minus cost
-Customer Type	New or Returning customer
-Payment Method	Method of payment
-Sales Channel	Online or Retail
-Region and Sales Rep	Combined field for reporting
+▪ Column Name	Description
+▪ Product ID	Unique identifier for products
+▪ Sale Date	Date of sale transaction
+▪ Sales Rep	Name of sales representative
+▪ Region	Sales region
+▪ Quantity Sold	Number of units sold
+▪ Product Category	Product category
+▪ Unit Cost	Cost price per unit
+▪ Unit Price	Selling price per unit
+▪ Cost	Total cost
+▪ Revenue	Total revenue
+▪ Profit	Revenue minus cost
+▪ Customer Type	New or Returning customer
+▪ Payment Method	Method of payment
+▪ Sales Channel	Online or Retail
+▪ Region and Sales Rep	Combined field for reporting
 
 
 
@@ -77,17 +77,17 @@ Businesses often struggle to track profitability, customer purchasing patterns, 
 
 This dashboard solves that challenge by:
 
-Monitoring overall sales performance
+✔ Monitoring overall sales performance.
 
-Tracking profitability by region
+✔ Tracking profitability by region.
 
-Identifying top-performing product categories
+✔ Identifying top-performing product categories.
 
-Understanding customer purchasing behavior
+✔ Understanding customer purchasing behavior.
 
-Comparing online versus retail sales performance
+✔ Comparing online versus retail sales performance.
 
-Evaluating sales representative contributions
+✔ Evaluating sales representative contributions.
 
 
 
@@ -97,19 +97,19 @@ Evaluating sales representative contributions
 
 The main objectives of this project are:
 
-Analyze total business revenue and profit
+✔ Analyze total business revenue and profit.
 
-Evaluate regional sales performance
+✔ Evaluate regional sales performance.
 
-Compare product category profitability
+✔ Compare product category profitability.
 
-Measure sales channel effectiveness
+✔ Measure sales channel effectiveness.
 
-Track customer purchasing behavior
+✔ Track customer purchasing behavior.
 
-Create an interactive dashboard for stakeholders
+✔ Create an interactive dashboard for stakeholders.
 
-Support data-driven decision making.
+✔ Support data-driven decision making.
 
 
 
@@ -120,13 +120,13 @@ Support data-driven decision making.
 **Tools Used**
 
 
-Microsoft Excel	
+➤ Microsoft Excel	
 
-Power BI	
+➤ Power BI	
 
-Power Query
+➤ Power Query
 
-DAX
+➤ DAX
 
 
 
@@ -155,14 +155,22 @@ This project is important because it enables businesses to make data-driven deci
 
 
 Helps management monitor business performance in real time
-Tracks company profitability and revenue growth
-Identifies high-performing product categories
-Reveals sales trends across regions and quarters
-Improves strategic planning and forecasting
-Supports customer behavior analysis
-Assists in evaluating sales representatives' performance
-Simplifies complex sales data into actionable insights
-Enhances reporting efficiency for stakeholders
+
+Tracks company profitability and revenue growth.
+
+Identifies high-performing product categories.
+
+Reveals sales trends across regions and quarters.
+
+Improves strategic planning and forecasting.
+
+Supports customer behavior analysis.
+
+Assists in evaluating sales representatives' performance.
+
+Simplifies complex sales data into actionable insights.
+
+Enhances reporting efficiency for stakeholders.
 
 
 
@@ -172,22 +180,30 @@ Enhances reporting efficiency for stakeholders
 
 The newly added line chart for Profit by Quarter provides trend analysis across business quarters.
 
+
 **Key Insights from the Quarterly Analysis**
 
 
-Profit declined slightly in Quarter 2
-Profit increased significantly in Quarter 3
-Quarter 4 recorded the highest profit performance
-The upward trend suggests strong business recovery and growth toward year-end
+Profit declined slightly in the second Quarter.
+
+Profit increased significantly in the third Quarter.
+
+The fourth Quarter recorded the highest profit performance.
+
+The upward trend suggests strong business recovery and growth toward year-end.
 
 
 **Business Value of the Line Chart**
 
 
 Helps identify seasonal business patterns
+
 Supports forecasting and budgeting
+
 Assists management in strategic planning
+
 Highlights periods of low and high performance
+
 Enables better resource allocation
 
 
@@ -228,8 +244,9 @@ New and Returning customers contributed nearly equally to quantity sold.
 **Key Observation**
 
 
-Returning customers remain highly valuable
-Strong customer acquisition strategy exists
+Returning customers remain highly valuable.
+
+Strong customer acquisition strategy exists.
 
 
 
@@ -257,16 +274,16 @@ Profit Margin = DIVIDE([Total Profit], [Total Revenue], 0)
 
 This project demonstrates the following skills:
 
-Data Cleaning
-Data Transformation
-Business Intelligence
-Dashboard Design
-Power BI Development
-DAX Calculations
-Data Visualization
-Analytical Thinking
-KPI Reporting
-Business Analysis
+➤ Data Cleaning
+➤ Data Transformation
+➤ Business Intelligence
+➤ Dashboard Design
+➤ Power BI Development
+➤ DAX Calculations
+➤ Data Visualization
+➤ Analytical Thinking
+➤ KPI Reporting
+➤ Business Analysis
 
 
 

@@ -22,13 +22,21 @@ The project focuses on transforming raw sales data into a clean, interactive, an
 The dashboard includes:
 
 ▪ Total Profit KPI
+
 ▪ Total Revenue KPI
+
 ▪ Total Cost KPI
+
 ▪ Quantity Sold KPI
+
 ▪ Profit by Region
+
 ▪ Profit by Product Category
+
 ▪ Profit by Sales Channel
+
 ▪ Quantity Sold by Customer Type
+
 ▪ Sales Representative Filter Panel
 
 
@@ -43,7 +51,9 @@ Dataset Name
 Sale Data project
 
 Dataset Size
+
 Total Records: 1,000 rows
+
 Total Columns: 15 columns
 
 
@@ -51,20 +61,35 @@ Total Columns: 15 columns
 
 
 ▪ Column Name	Description
+
 ▪ Product ID	Unique identifier for products
+
 ▪ Sale Date	Date of sale transaction
+
 ▪ Sales Rep	Name of sales representative
+
 ▪ Region	Sales region
+
 ▪ Quantity Sold	Number of units sold
+
 ▪ Product Category	Product category
+
 ▪ Unit Cost	Cost price per unit
+
 ▪ Unit Price	Selling price per unit
+
 ▪ Cost	Total cost
+
 ▪ Revenue	Total revenue
+
 ▪ Profit	Revenue minus cost
+
 ▪ Customer Type	New or Returning customer
+
 ▪ Payment Method	Method of payment
+
 ▪ Sales Channel	Online or Retail
+
 ▪ Region and Sales Rep	Combined field for reporting
 
 
@@ -241,6 +266,7 @@ Balanced channel performance reduces business risk
 
 New and Returning customers contributed nearly equally to quantity sold.
 
+
 **Key Observation**
 
 
@@ -275,14 +301,23 @@ Profit Margin = DIVIDE([Total Profit], [Total Revenue], 0)
 This project demonstrates the following skills:
 
 ➤ Data Cleaning
+
 ➤ Data Transformation
+
 ➤ Business Intelligence
+
 ➤ Dashboard Design
+
 ➤ Power BI Development
+
 ➤ DAX Calculations
+
 ➤ Data Visualization
+
 ➤ Analytical Thinking
+
 ➤ KPI Reporting
+
 ➤ Business Analysis
 
 

@@ -37,6 +37,7 @@ Sales Representative Filter Panel
 
 
 **Dataset Information**
+
 Dataset Name
 
 Sale Data project
@@ -47,6 +48,8 @@ Total Columns: 15 columns
 
 
 **Main Dataset Columns**
+
+
 Column Name	Description
 Product ID	Unique identifier for products
 Sale Date	Date of sale transaction
@@ -86,6 +89,7 @@ Evaluating sales representative contributions
 
 **Project Objectives**
 
+
 The main objectives of this project are:
 
 Analyze total business revenue and profit
@@ -103,13 +107,13 @@ Support data-driven decision making
 
 
 **Tools Used**
+
+
 Tool	Purpose
 Microsoft Excel	Data storage and cleaning
 Power BI	Dashboard creation and visualization
 Power Query	Data transformation
 DAX	Calculated measures and KPIs
-
-
 
 
 
@@ -127,14 +131,9 @@ The addition of the Profit by Quarter line chart further improves the project by
 
 
 
-
-
 **Project Importance**
 
 This project is important because it enables businesses to make data-driven decisions using clear and interactive visualizations.
-
-
-
 
 
 
@@ -155,9 +154,11 @@ Enhances reporting efficiency for stakeholders
 
 **Importance of the Quarterly Profit Analysis**
 
+
 The newly added line chart for Profit by Quarter provides trend analysis across business quarters.
 
 **Key Insights from the Quarterly Analysis**
+
 
 Profit declined slightly in Quarter 2
 Profit increased significantly in Quarter 3
@@ -173,8 +174,6 @@ Supports forecasting and budgeting
 Assists management in strategic planning
 Highlights periods of low and high performance
 Enables better resource allocation
-
-
 
 
 
@@ -212,6 +211,8 @@ Balanced channel performance reduces business risk
 New and Returning customers contributed nearly equally to quantity sold.
 
 **Key Observation**
+
+
 Returning customers remain highly valuable
 Strong customer acquisition strategy exists
 
@@ -220,6 +221,7 @@ Strong customer acquisition strategy exists
 **DAX Measures Used**
 
 **Total Revenue**
+
 Total Revenue = SUM('Sales Data'[Revenue])
 
 **Total Cost**
@@ -267,6 +269,8 @@ The project demonstrates how Power BI can be used to analyze sales performance, 
 
 
 **Author**
+
+
 Glory Audu Yande
 
 Data Analyst | Business Intelligence Enthusiast

@@ -46,9 +46,7 @@ The dashboard includes:
 
 **Dataset Information**
 
-Dataset Name
-
-Sale Data project
+Dataset Name: Sale Data project
 
 Dataset Size
 

@@ -78,10 +78,15 @@ Businesses often struggle to track profitability, customer purchasing patterns, 
 This dashboard solves that challenge by:
 
 Monitoring overall sales performance
+
 Tracking profitability by region
+
 Identifying top-performing product categories
+
 Understanding customer purchasing behavior
+
 Comparing online versus retail sales performance
+
 Evaluating sales representative contributions
 
 
@@ -93,11 +98,17 @@ Evaluating sales representative contributions
 The main objectives of this project are:
 
 Analyze total business revenue and profit
+
 Evaluate regional sales performance
+
 Compare product category profitability
+
 Measure sales channel effectiveness
+
 Track customer purchasing behavior
+
 Create an interactive dashboard for stakeholders
+
 Support data-driven decision making.
 
 
@@ -110,8 +121,11 @@ Support data-driven decision making.
 
 
 Microsoft Excel	
+
 Power BI	
+
 Power Query
+
 DAX
 
 

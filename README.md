@@ -138,8 +138,6 @@ The main objectives of this project are:
 
 
 
-
-
 **Tools Used**
 
 
@@ -159,17 +157,7 @@ The main objectives of this project are:
 
 The Echu Sales Report Dashboard is an interactive business intelligence project developed in Microsoft Power BI to analyze sales performance, profitability, customer behavior, and product category trends.
 
-The dashboard transforms raw transactional sales data into meaningful insights through KPIs, charts, and interactive filters that support business decision-making.
-
-The addition of the Profit by Quarter line chart further improves the project by revealing quarterly performance trends and helping stakeholders identify seasonal sales patterns and business growth opportunities.
-
-
-
-
-
-**Project Importance**
-
-This project is important because it enables businesses to make data-driven decisions using clear and interactive visualizations.
+The dashboard transforms raw transactional sales data into meaningful insights through KPIs, charts, and interactive filters that support business decision-making, performance trends and helping stakeholders identify seasonal sales patterns and business growth opportunities.
 
 
 
@@ -201,7 +189,7 @@ Enhances reporting efficiency for stakeholders.
 **Importance of the Quarterly Profit Analysis**
 
 
-The newly added line chart for Profit by Quarter provides trend analysis across business quarters.
+The line chart for Profit by Quarter provides trend analysis across business quarters.
 
 
 **Key Insights from the Quarterly Analysis**
@@ -234,16 +222,19 @@ Enables better resource allocation
 
 **Dashboard Insights**
 
-1. Regional Profit Analysis
+**1. Regional Profit Analysis**
 
 The North region generated the highest profit, followed closely by the East region.
 
 Key Observation
+
 North region performed best overall
+
 South region generated the lowest profit
+
 Regional sales performance is relatively balanced
 
-2. Product Category Performance
+**2. Product Category Performance**
 
 Furniture and Clothing categories generated the highest profits.
 
@@ -252,7 +243,7 @@ Furniture leads in profitability
 Electronics generated the lowest profit
 Product diversification contributes positively to revenue
 
-3. Sales Channel Analysis
+**3. Sales Channel Analysis**
 
 Retail and Online sales channels contributed almost equally to total profit.
 
@@ -260,7 +251,7 @@ Key Observation
 Retail slightly outperformed Online
 Balanced channel performance reduces business risk
 
-4. Customer Type Analysis
+**4. Customer Type Analysis**
 
 New and Returning customers contributed nearly equally to quantity sold.
 

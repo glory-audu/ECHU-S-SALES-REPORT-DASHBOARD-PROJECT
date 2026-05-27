@@ -139,6 +139,8 @@ This project is important because it enables businesses to make data-driven deci
 
 
 **Why This Project Matters**
+
+
 Helps management monitor business performance in real time
 Tracks company profitability and revenue growth
 Identifies high-performing product categories
@@ -221,7 +223,6 @@ Strong customer acquisition strategy exists
 **DAX Measures Used**
 
 **Total Revenue**
-
 Total Revenue = SUM('Sales Data'[Revenue])
 
 **Total Cost**
@@ -231,11 +232,9 @@ Total Cost = SUM('Sales Data'[Cost ])
 Total Profit = SUM('Sales Data'[Profit])
 
 **Quantity Sold**
-
 Quantity Sold = SUM('Sales Data'[Quantity Sold])
 
 **Profit Margin**
-
 Profit Margin = DIVIDE([Total Profit], [Total Revenue], 0)
 
 

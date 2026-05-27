@@ -98,7 +98,7 @@ Compare product category profitability
 Measure sales channel effectiveness
 Track customer purchasing behavior
 Create an interactive dashboard for stakeholders
-Support data-driven decision making
+Support data-driven decision making.
 
 
 
@@ -109,11 +109,10 @@ Support data-driven decision making
 **Tools Used**
 
 
-Tool	Purpose
-Microsoft Excel	Data storage and cleaning
-Power BI	Dashboard creation and visualization
-Power Query	Data transformation
-DAX	Calculated measures and KPIs
+Microsoft Excel	
+Power BI	
+Power Query
+DAX
 
 
 
